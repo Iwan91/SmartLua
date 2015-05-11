@@ -4,6 +4,7 @@ Wrapper around Lua/LuaJ to get more info about errors from lua and java
 This wrapper use:
 * [StackTracePlus](https://github.com/Iwan91/StackTracePlus) for Java
 * [StackTracePlus](https://github.com/ignacio/StackTracePlus) for Lua
+* [LuaJ](http://www.luaj.org/luaj/3.0/README.html)
 
 ## Usage:
 You can find more examples [here](https://github.com/Iwan91/SmartLua/tree/master/SmartLua/src/iwan91/com/github/SmartLua/examples)
