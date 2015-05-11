@@ -30,7 +30,7 @@ function myFunctionWithError(num1,num2)
   return num1+num2
 end
 ```
-Run below Java script:
+Run below Java code:
 ```java
 public class Example1Main {
 	public static void main(String[] args) {
